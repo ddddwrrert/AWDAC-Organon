@@ -1,0 +1,11 @@
+{
+  "reference-max": {
+    "backend": "reference",
+    "command": "python -B -m awdac demo"
+  },
+  "ahc015": {
+    "backend": "organon-artifacts",
+    "source": "Organon_original/tasks/ale_bench/ahc015",
+    "formal_budget": 100
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "backend": "organon-artifacts",
+  "budget": {
+    "max": 100,
+    "remaining": 0,
+    "used": 100
+  },
+  "metrics": {
+    "finite_scores": 101,
+    "population_records": 101
+  }
+}

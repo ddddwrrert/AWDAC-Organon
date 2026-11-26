@@ -1,0 +1,35 @@
+{
+  "backend": "reference",
+  "best_candidate": "c000001",
+  "best_fitness": 93,
+  "budget": {
+    "max": 3,
+    "remaining": 0,
+    "used": 3
+  },
+  "cost": {
+    "cache_hits": 2,
+    "evaluated_seeds": 8,
+    "evaluation_calls": 2
+  },
+  "population": [
+    {
+      "fitness": 26.75,
+      "id": "c000000"
+    },
+    {
+      "fitness": 93,
+      "id": "c000001"
+    },
+    {
+      "fitness": 93,
+      "id": "c000002"
+    },
+    {
+      "fitness": 93,
+      "id": "c000003"
+    }
+  ],
+  "run_id": "9ef01160-8bca-4b3a-8213-e6286d9bdda6",
+  "tokens": null
+}

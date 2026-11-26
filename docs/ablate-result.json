@@ -1,0 +1,457 @@
+{
+  "acu": {
+    "backend": "reference",
+    "best_candidate": "c000001",
+    "best_fitness": 93,
+    "budget": {
+      "max": 3,
+      "remaining": 0,
+      "used": 3
+    },
+    "cost": {
+      "cache_hits": 0,
+      "evaluated_seeds": 16,
+      "evaluation_calls": 4
+    },
+    "population": [
+      {
+        "fitness": 26.75,
+        "id": "c000000"
+      },
+      {
+        "fitness": 93,
+        "id": "c000001"
+      },
+      {
+        "fitness": 93,
+        "id": "c000002"
+      },
+      {
+        "fitness": 93,
+        "id": "c000003"
+      }
+    ],
+    "run_id": "d3eb5af8-5e3f-4e40-b725-d699d7b51ea9",
+    "tokens": null
+  },
+  "baseline": {
+    "backend": "reference",
+    "best_candidate": "c000001",
+    "best_fitness": 93,
+    "budget": {
+      "max": 3,
+      "remaining": 0,
+      "used": 3
+    },
+    "cost": {
+      "cache_hits": 0,
+      "evaluated_seeds": 16,
+      "evaluation_calls": 4
+    },
+    "population": [
+      {
+        "fitness": 26.75,
+        "id": "c000000"
+      },
+      {
+        "fitness": 93,
+        "id": "c000001"
+      },
+      {
+        "fitness": 93,
+        "id": "c000002"
+      },
+      {
+        "fitness": 93,
+        "id": "c000003"
+      }
+    ],
+    "run_id": "b2f27b9b-2ebd-4e9d-b570-16c8dc2bfd21",
+    "tokens": null
+  },
+  "collaboration": {
+    "backend": "reference",
+    "best_candidate": "c000001",
+    "best_fitness": 93,
+    "budget": {
+      "max": 3,
+      "remaining": 0,
+      "used": 3
+    },
+    "cost": {
+      "cache_hits": 0,
+      "evaluated_seeds": 16,
+      "evaluation_calls": 4
+    },
+    "population": [
+      {
+        "fitness": 26.75,
+        "id": "c000000"
+      },
+      {
+        "fitness": 93,
+        "id": "c000001"
+      },
+      {
+        "fitness": 93,
+        "id": "c000002"
+      },
+      {
+        "fitness": 93,
+        "id": "c000003"
+      }
+    ],
+    "run_id": "acff0e17-bc72-44c0-8b3e-98f720a63833",
+    "tokens": null
+  },
+  "eca": {
+    "backend": "reference",
+    "best_candidate": "c000001",
+    "best_fitness": 93,
+    "budget": {
+      "max": 3,
+      "remaining": 0,
+      "used": 3
+    },
+    "cost": {
+      "cache_hits": 0,
+      "evaluated_seeds": 16,
+      "evaluation_calls": 4
+    },
+    "population": [
+      {
+        "fitness": 26.75,
+        "id": "c000000"
+      },
+      {
+        "fitness": 93,
+        "id": "c000001"
+      },
+      {
+        "fitness": 93,
+        "id": "c000002"
+      },
+      {
+        "fitness": 93,
+        "id": "c000003"
+      }
+    ],
+    "run_id": "aca30a2d-4e80-4b18-a2a4-379b38eea3c2",
+    "tokens": null
+  },
+  "full": {
+    "backend": "reference",
+    "best_candidate": "c000001",
+    "best_fitness": 93,
+    "budget": {
+      "max": 3,
+      "remaining": 0,
+      "used": 3
+    },
+    "cost": {
+      "cache_hits": 2,
+      "evaluated_seeds": 8,
+      "evaluation_calls": 2
+    },
+    "population": [
+      {
+        "fitness": 26.75,
+        "id": "c000000"
+      },
+      {
+        "fitness": 93,
+        "id": "c000001"
+      },
+      {
+        "fitness": 93,
+        "id": "c000002"
+      },
+      {
+        "fitness": 93,
+        "id": "c000003"
+      }
+    ],
+    "run_id": "7858cae2-c49e-4e11-9951-42a5c329fe2a",
+    "tokens": null
+  },
+  "hdpe": {
+    "backend": "reference",
+    "best_candidate": "c000001",
+    "best_fitness": 93,
+    "budget": {
+      "max": 3,
+      "remaining": 0,
+      "used": 3
+    },
+    "cost": {
+      "cache_hits": 0,
+      "evaluated_seeds": 16,
+      "evaluation_calls": 4
+    },
+    "population": [
+      {
+        "fitness": 26.75,
+        "id": "c000000"
+      },
+      {
+        "fitness": 93,
+        "id": "c000001"
+      },
+      {
+        "fitness": 93,
+        "id": "c000002"
+      },
+      {
+        "fitness": 93,
+        "id": "c000003"
+      }
+    ],
+    "run_id": "96aa4bb6-8095-4251-9491-745d5714b9f5",
+    "tokens": null
+  },
+  "m7": {
+    "backend": "reference",
+    "best_candidate": "c000001",
+    "best_fitness": 93,
+    "budget": {
+      "max": 3,
+      "remaining": 0,
+      "used": 3
+    },
+    "cost": {
+      "cache_hits": 0,
+      "evaluated_seeds": 16,
+      "evaluation_calls": 4
+    },
+    "population": [
+      {
+        "fitness": 26.75,
+        "id": "c000000"
+      },
+      {
+        "fitness": 93,
+        "id": "c000001"
+      },
+      {
+        "fitness": 93,
+        "id": "c000002"
+      },
+      {
+        "fitness": 93,
+        "id": "c000003"
+      }
+    ],
+    "run_id": "95e19560-7895-4fa6-9737-a8996fb6b0ad",
+    "tokens": null
+  },
+  "m9": {
+    "backend": "reference",
+    "best_candidate": "c000001",
+    "best_fitness": 93,
+    "budget": {
+      "max": 3,
+      "remaining": 0,
+      "used": 3
+    },
+    "cost": {
+      "cache_hits": 0,
+      "evaluated_seeds": 16,
+      "evaluation_calls": 4
+    },
+    "population": [
+      {
+        "fitness": 26.75,
+        "id": "c000000"
+      },
+      {
+        "fitness": 93,
+        "id": "c000001"
+      },
+      {
+        "fitness": 93,
+        "id": "c000002"
+      },
+      {
+        "fitness": 93,
+        "id": "c000003"
+      }
+    ],
+    "run_id": "8579f260-18ce-4c62-804b-aec22794d49b",
+    "tokens": null
+  },
+  "memory": {
+    "backend": "reference",
+    "best_candidate": "c000001",
+    "best_fitness": 93,
+    "budget": {
+      "max": 3,
+      "remaining": 0,
+      "used": 3
+    },
+    "cost": {
+      "cache_hits": 0,
+      "evaluated_seeds": 16,
+      "evaluation_calls": 4
+    },
+    "population": [
+      {
+        "fitness": 26.75,
+        "id": "c000000"
+      },
+      {
+        "fitness": 93,
+        "id": "c000001"
+      },
+      {
+        "fitness": 93,
+        "id": "c000002"
+      },
+      {
+        "fitness": 93,
+        "id": "c000003"
+      }
+    ],
+    "run_id": "d8c2f3cd-8763-4b3c-90bc-33e0ee25a4d4",
+    "tokens": null
+  },
+  "operator": {
+    "backend": "reference",
+    "best_candidate": "c000001",
+    "best_fitness": 93,
+    "budget": {
+      "max": 3,
+      "remaining": 0,
+      "used": 3
+    },
+    "cost": {
+      "cache_hits": 0,
+      "evaluated_seeds": 16,
+      "evaluation_calls": 4
+    },
+    "population": [
+      {
+        "fitness": 26.75,
+        "id": "c000000"
+      },
+      {
+        "fitness": 93,
+        "id": "c000001"
+      },
+      {
+        "fitness": 93,
+        "id": "c000002"
+      },
+      {
+        "fitness": 93,
+        "id": "c000003"
+      }
+    ],
+    "run_id": "c82b91c6-c037-48b5-8a4c-88eb90581d77",
+    "tokens": null
+  },
+  "regression": {
+    "backend": "reference",
+    "best_candidate": "c000001",
+    "best_fitness": 93,
+    "budget": {
+      "max": 3,
+      "remaining": 0,
+      "used": 3
+    },
+    "cost": {
+      "cache_hits": 0,
+      "evaluated_seeds": 16,
+      "evaluation_calls": 4
+    },
+    "population": [
+      {
+        "fitness": 26.75,
+        "id": "c000000"
+      },
+      {
+        "fitness": 93,
+        "id": "c000001"
+      },
+      {
+        "fitness": 93,
+        "id": "c000002"
+      },
+      {
+        "fitness": 93,
+        "id": "c000003"
+      }
+    ],
+    "run_id": "37343749-bdb2-4763-aaa7-70541b7df05d",
+    "tokens": null
+  },
+  "reuse": {
+    "backend": "reference",
+    "best_candidate": "c000001",
+    "best_fitness": 93,
+    "budget": {
+      "max": 3,
+      "remaining": 0,
+      "used": 3
+    },
+    "cost": {
+      "cache_hits": 2,
+      "evaluated_seeds": 8,
+      "evaluation_calls": 2
+    },
+    "population": [
+      {
+        "fitness": 26.75,
+        "id": "c000000"
+      },
+      {
+        "fitness": 93,
+        "id": "c000001"
+      },
+      {
+        "fitness": 93,
+        "id": "c000002"
+      },
+      {
+        "fitness": 93,
+        "id": "c000003"
+      }
+    ],
+    "run_id": "c058752e-653f-4a69-80dd-e565a245dd27",
+    "tokens": null
+  },
+  "seed": {
+    "backend": "reference",
+    "best_candidate": "c000001",
+    "best_fitness": 93,
+    "budget": {
+      "max": 3,
+      "remaining": 0,
+      "used": 3
+    },
+    "cost": {
+      "cache_hits": 0,
+      "evaluated_seeds": 16,
+      "evaluation_calls": 4
+    },
+    "population": [
+      {
+        "fitness": 26.75,
+        "id": "c000000"
+      },
+      {
+        "fitness": 93,
+        "id": "c000001"
+      },
+      {
+        "fitness": 93,
+        "id": "c000002"
+      },
+      {
+        "fitness": 93,
+        "id": "c000003"
+      }
+    ],
+    "run_id": "3a72e3e2-08a1-4388-98a0-a142efbd41f8",
+    "tokens": null
+  }
+}

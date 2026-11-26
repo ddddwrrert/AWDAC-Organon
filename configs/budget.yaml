@@ -1,0 +1,9 @@
+{
+  "formal": {
+    "candidate_budget": 100,
+    "replace_evaluation_from_cache": false
+  },
+  "reference": {
+    "reuse": true
+  }
+}

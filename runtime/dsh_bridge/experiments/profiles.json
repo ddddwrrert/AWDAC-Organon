@@ -1,0 +1,27 @@
+{
+  "baseline": {
+    "capability": false,
+    "collaboration": false,
+    "evidence": false
+  },
+  "acu": {
+    "capability": true,
+    "collaboration": false,
+    "evidence": false
+  },
+  "collaboration": {
+    "capability": false,
+    "collaboration": true,
+    "evidence": false
+  },
+  "evidence": {
+    "capability": false,
+    "collaboration": false,
+    "evidence": true
+  },
+  "full": {
+    "capability": true,
+    "collaboration": true,
+    "evidence": true
+  }
+}

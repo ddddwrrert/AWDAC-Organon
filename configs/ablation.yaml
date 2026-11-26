@@ -1,0 +1,51 @@
+{
+  "profiles": {
+    "baseline": [],
+    "full": [
+      "acu",
+      "collaboration",
+      "hdpe",
+      "seed",
+      "regression",
+      "memory",
+      "reuse",
+      "operator",
+      "m9",
+      "m7",
+      "eca"
+    ],
+    "acu": [
+      "acu"
+    ],
+    "collaboration": [
+      "collaboration"
+    ],
+    "hdpe": [
+      "hdpe"
+    ],
+    "seed": [
+      "seed"
+    ],
+    "regression": [
+      "regression"
+    ],
+    "memory": [
+      "memory"
+    ],
+    "reuse": [
+      "reuse"
+    ],
+    "operator": [
+      "operator"
+    ],
+    "m9": [
+      "m9"
+    ],
+    "m7": [
+      "m7"
+    ],
+    "eca": [
+      "eca"
+    ]
+  }
+}

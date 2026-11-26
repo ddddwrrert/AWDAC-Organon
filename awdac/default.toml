@@ -1,0 +1,19 @@
+[reference]
+budget = 3
+seeds = [0, 1, 2, 3]
+
+[features]
+acu = true
+collaboration = true
+hdpe = true
+seed = true
+regression = true
+memory = true
+reuse = true
+operator = true
+m9 = true
+m7 = true
+eca = true
+
+[evidence]
+collapse_fraction = 0.25
